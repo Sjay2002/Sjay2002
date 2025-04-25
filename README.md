@@ -2,7 +2,7 @@
 👋 Hi, I'm Savidya Sithumini
 
 <h1 align="center">Hi 👋, I'm Savidya Sithumini</h1>
-<h3 align="center">💻IT undergraduate with a passion for technology and problem-solving. 🚀Always eager to learn, innovate, and contribute to impactful projects🌱</h3>
+<h3 align="center">💻IT undergraduate with a passion for technology and problem-solving.🚀🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjay2002&label=Profile%20views&color=0e75b6&style=flat" alt="sjay2002" /> </p>
 
